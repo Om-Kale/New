@@ -14,3 +14,5 @@ Below is a collection of Python projects I've compiled and uploaded to GitHub. P
 6) Diwali Sales  https://github.com/Om-Kale/Data-Analysis-Diwali-Sales-
     
 7) Hotel Booking https://github.com/Om-Kale/Data-Analysis-Hotel-Booking-
+
+8) Company Finance Data Analysis  https://github.com/Om-Kale/Company-finance-data-analysis
