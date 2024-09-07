@@ -1,6 +1,7 @@
 # Python Projects
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+1) Restaurant Sales  https://github.com/Om-Kale/Restaurant_Sales
 
 1) Coffee Sales  https://github.com/Om-Kale/Coffee_Sales
    
